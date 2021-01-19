@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">KotlinConstraintLayoutDesign</string>
+    <string name="covid_desc">
+        If you feel sick with any of covid19 symotoms
+        <br>
+            please call or SMS us immedietly for help.
+        </br>
+    </string>
 </resources>
